@@ -14,7 +14,7 @@ Audio File Access
  Speaker Output
 
 
----
+
 
 # 📄 `hardware/wiring-connections.md`
 
