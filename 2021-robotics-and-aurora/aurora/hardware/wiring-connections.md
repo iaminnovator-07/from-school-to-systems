@@ -1,6 +1,4 @@
-# 🔌 Hardware Integrations
-
-## Core Embedded Workflow
+# 🌌 System Architecture
 
 ```txt
 Power Supply
@@ -12,7 +10,9 @@ Power Supply
 Audio File Access
       ↓
  Speaker Output
+```
 
+---
 
 # 🔌 Wiring Connections
 
@@ -61,3 +61,4 @@ SD Card Audio Access
 Stored Voice Playback
     ↓
 Speaker Output
+```
