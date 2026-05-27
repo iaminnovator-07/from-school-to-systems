@@ -14,11 +14,6 @@ Audio File Access
  Speaker Output
 
 
-
-
-# 📄 `hardware/wiring-connections.md`
-
-```md
 # 🔌 Wiring Connections
 
 ## SD Card Module
